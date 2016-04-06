@@ -1,0 +1,23 @@
+﻿body {
+}
+#calc {
+padding: 1em;
+}
+
+input{
+    width:10em;
+    margin:0;
+
+}
+
+button{
+    width:2em;
+    border:0;
+    font-size:1em;
+    margin:0;
+}
+
+table, th, td{
+    border: 0px;
+    
+}
